@@ -19,7 +19,7 @@ const skillCategories = [
   },
   {
     title: "Tools",
-    skills: ["npm", "Postman", "Git", "Jest", "Babel"],
+    skills: ["npm", "Postman", "Git", "Jest", "Babel","Vite","vercel","Render"],
   },
 ];
 
