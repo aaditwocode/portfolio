@@ -1,3 +1,5 @@
+import { RevealOnScroll } from "./RevealonScroll";
+
 const projectsData = [
   {
     title: "YoutubeMini",
@@ -49,8 +51,10 @@ const projectsData = [
   },
 ];
 
+// Helper function to get start date for sorting more precisely
 function getStartDate(period) {
-  
+  // format: "Mon YYYY - Mon YYYY" or similar
+  // parse start month & year
   const months = {
     Jan: 1,
     Feb: 2,
