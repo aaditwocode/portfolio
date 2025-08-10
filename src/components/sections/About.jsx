@@ -3,7 +3,7 @@ import { RevealOnScroll } from "./RevealonScroll.jsx";
 const skillCategories = [
   {
     title: "Languages",
-    skills: ["C", "C++", "JavaScript", "PHP", "MySQL", "MongoDB"],
+    skills: ["C", "C++", "JavaScript", "Python" , "Java" ,"PHP", "MySQL", "MongoDB"],
   },
   {
     title: "Web Development",
